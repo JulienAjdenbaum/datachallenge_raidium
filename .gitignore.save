@@ -1,0 +1,9 @@
+baseline_masks/*
+images/*
+SAM/*
+SAM_masks/*
+X_test/*
+X_train/*
+atvmf/03*
+SimCLR/Raidium/*
+baseline_masks

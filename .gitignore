@@ -4,6 +4,7 @@ SAM/*
 SAM_masks/*
 X_test/*
 X_train/*
+X_train_cp/*
 atvmf/03*
 SimCLR/Raidium/*
 Y_train.csv
@@ -21,3 +22,5 @@ SimCLR/datasets/*
 SimCLR/runs
 atvmf/result_unet
 atvmf/result_fcb
+Swin/output_dir
+Swin/runs
